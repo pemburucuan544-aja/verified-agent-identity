@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'pemburucuan544-aja
+        description: 'pemburu544-aja
         required: true
         default: 'pemburu544-aja'
       agent_description:

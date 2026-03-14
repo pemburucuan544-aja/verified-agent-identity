@@ -6,11 +6,11 @@ on:
       agent_name:
         description: 'pemburucuan544-aja
         required: true
-        default: 'uangdroid'
+        default: 'pemburu544-aja'
       agent_description:
-        description: 'uangdroid'
+        description: 'pemburu544-aja'
         required: true
-        default: 'uangdroid AI Agent'
+        default: 'pemburu544-aja AI Agent'
 
 jobs:
   verify:
